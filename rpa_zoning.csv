@@ -1,0 +1,52 @@
+WILAYA_CODE,WILAYA_NAME,ZONE_SISMIQUE,COMMUNES_COUNT,RISK_LEVEL,DESCRIPTION
+1,ADRAR,0,32,Very Low,Saharan zone - minimal seismic activity
+2,CHLEF,IIb,15,High,Coastal region with elevated seismic activity
+3,LAGHOUAT,I,21,Low,Saharan steppes - low to moderate seismic risk
+4,OUM EL BOUAGHI,IIa,12,Medium-High,Eastern plateau region
+5,BATNA,IIa,13,Medium-High,North-eastern highlands
+6,BEJAIA,IIb,19,High,Mountainous coastal region - significant seismic activity
+7,BISKRA,IIa,12,Medium-High,Eastern Sahara
+8,BECHAR,0,28,Very Low,Remote Saharan region
+9,BLIDA,III,29,Very High,High seismic activity - priority monitoring zone
+10,BOUMERDES,III,28,Very High,Coastal - severe seismic risk - coastal effect
+11,TIZI OUZOU,III,67,Very High,Kabylie region - highest seismic activity in North Africa (2003 earthquake epicenter)
+12,ALGIERS (ALGER),III,57,Very High,Capital region - maximum seismic exposure
+13,DJELFA,I,27,Low,Central plateau
+14,JIJEL,IIb,12,High,Mountain-coastal transition
+15,SETIF,IIa,16,Medium-High,Northern plateau
+16,SAIDA,IIa,14,Medium-High,Western plateau
+17,SKIKDA,IIb,12,High,Eastern coast
+18,SIDI BEL ABBES,IIa,13,Medium-High,Western region
+19,ANNABA,IIb,12,High,North-eastern coastal
+20,GUELMA,IIa,10,Medium-High,North-eastern interior
+21,CONSTANTINE,IIa,12,Medium-High,Eastern city
+22,MEDEA,IIa,14,Medium-High,Northern highlands
+23,MOSTAGHANEM,IIb,11,High,Western coastal
+24,MSILA,I,28,Low,Central Sahara
+25,OUARGLA,0,14,Very Low,Saharan
+26,ORAN,IIb,11,High,Western coastal
+27,EL BAYADH,I,18,Low,Southern steppes
+28,ILLIZI,0,10,Very Low,Remote Sahara
+29,BEN AKNOUN,I,12,Low,Saharan
+30,TIARET,IIa,13,Medium-High,Central-western
+31,TLEMCEN,IIa,13,Medium-High,Western highlands
+32,TIARET_ALT,IIa,1,Medium-High,Central plateau
+33,GHARDAIA,0,13,Very Low,Central Sahara
+34,RELIZANE,IIa,14,Medium-High,Western plateau
+35,TEBESSA,I,14,Low,Eastern steppes
+36,TAMANRASSET,0,19,Very Low,Saharan Tuareg region
+37,TINDOUF,0,2,Very Low,Remote south-west Sahara
+38,MASCARA,IIa,13,Medium-High,Western interior
+39,OULED DJELLAL,I,15,Low,Central Sahara
+40,BORDJ BOU ARRERIDJ,IIa,12,Medium-High,Northern central
+41,BOUMERDES_SPLIT,IIb,5,High,Coastal part (split jurisdiction)
+42,SKIKDA_ALT,IIb,3,High,Coastal split
+43,SOUK AHRAS,IIa,12,Medium-High,North-eastern
+44,MILA,IIa,10,Medium-High,Northern central
+45,AIN DEFLA,IIb,11,High,Northern coastal
+46,NAAMA,I,14,Low,South-western Sahara
+47,AIN TEMOUCHENT,IIb,11,High,Western coastal
+48,GHARDAIA_ALT,I,8,Low,Central Saharan
+49,RELIZANE_ALT,IIa,8,Medium-High,Western plateau
+50,ADRAR_ALT,0,5,Very Low,Saharan split
+51,TAMANRASSET_ALT,0,3,Very Low,Saharan split

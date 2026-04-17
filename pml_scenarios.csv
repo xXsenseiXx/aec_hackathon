@@ -1,0 +1,4 @@
+Scenario_ID,Scenario_Name,Focus_Zone,Magnitude,Affected_Policies,Capital_At_Risk,Total_PML,Avg_Loss_Per_Policy,Max_Loss_Single_Policy,PML_as_Pct_Capital,Description
+Scenario_1,Zone III - Magnitude 7.0 (Algiers Focus),III,"7,0",3136,"19880937758,44","2705542375,3352394","862736,726828839","504000000,0","13,608726148678087",Major earthquake centered on Algiers/BLIDA
+Scenario_2,Zone III - Magnitude 7.5 (Kabylie Focus),III,"7,5",3136,"19880937758,44","3607389833,78032","1150315,6357717859","672000000,0","18,144968198237454",Catastrophic earthquake (1-in-250 years) on Tizi Ouzou/Boumerdes
+Scenario_3,Zone IIb - Magnitude 6.5 (Coastal),IIb,"6,5",9172,"56259575470,05","2803402414,0071044","305681,2140450446","422923977,5264001","4,982978258517977",Strong coastal earthquake
